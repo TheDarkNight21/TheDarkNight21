@@ -20,7 +20,7 @@ If you're interested in collaborating on AI, algorithms, or even creating the ne
 
 ## 📫 How to Reach Me
 - Email: faris.allaf21@gmail.com
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/farisallaf)
+- LinkedIn: [Connect with me](www.linkedin.com/in/faris-allaf)
 
 ## ⚡ Fun Fact
 When I'm not coding or working on my next big idea, you'll find me working out daily while managing Type 1 Diabetes. I’ve turned that challenge into motivation to keep pushing myself to new heights, just like I do in my projects!
