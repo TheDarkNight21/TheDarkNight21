@@ -7,10 +7,8 @@ I’m passionate about the intersection of AI, finance, and technology. As a thi
 
 ## 🌱 What I’m Learning
 I'm currently diving deeper into:
-- **Regex pattern matching**: Expanding my pattern recognition skills through projects like building my own grep tool.
-- **Stock and crypto trading algorithms**: Developing an AI bot called *Khalid Ibn Al Walid* that analyzes cryptocurrency data and automates trading strategies.
-- **iOS app development**: Following tutorials on Firebase, iOS SDK, and more to create seamless, powerful mobile apps.
-- **Artificial intelligence in marketing**: I'm building a comprehensive deck titled "AI: Revolutionizing Modern Marketing" to showcase AI's impact on digital marketing.
+- **Swift/iOS app development**: Following tutorials on Firebase, iOS SDK, and more to create seamless, powerful mobile apps.
+- **Computer Vision**: Discovering ways to utilize old Apple devices I hold and create cool computer vision projects with them.
 
 ## 💻 Projects & Collaboration
 - **Educational AI**: I'm developing an AI-based platform aimed at teaching college students of Arab descent how to read and write in formal Arabic (Fusha).
