@@ -17,7 +17,7 @@ I'm currently diving deeper into:
 If you're interested in collaborating on AI, algorithms, or even creating the next big thing in app development, feel free to reach out!
 
 ## 📫 How to Reach Me
-- Email: faris.allaf21@gmail.com
+- Email: faris.allaf@gmail.com
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/faris-allaf)
 
 ## ⚡ Fun Fact
