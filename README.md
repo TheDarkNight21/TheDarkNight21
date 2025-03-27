@@ -1,4 +1,4 @@
-# 👋 Hi there! I’m Faris Allaf, also known as @TheDarkNight21
+# 👋 Hi there! I’m @TheDarkNight21
 
 Welcome to my GitHub profile, where you'll find a blend of AI-driven innovation, cutting-edge algorithms, and creative tech solutions.
 
