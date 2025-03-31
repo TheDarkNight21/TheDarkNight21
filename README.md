@@ -7,11 +7,9 @@ I’m passionate about the intersection of AI, finance, and technology. As a thi
 
 ## 🌱 What I’m Learning
 I'm currently diving deeper into:
-- **Swift/iOS app development**: Following tutorials on Firebase, iOS SDK, and more to create seamless, powerful mobile apps.
-- **Computer Vision**: Discovering ways to utilize old Apple devices I hold and create cool computer vision projects with them.
+- **RAG Pipeline Developement (Langchain and LlamaIndex)**: Building pipelines for mortgage and biotech applications.
 
 ## 💻 Projects & Collaboration
-- **Educational AI**: I'm developing an AI-based platform aimed at teaching college students of Arab descent how to read and write in formal Arabic (Fusha).
 - **Open-Source Contributions**: Always looking to contribute to exciting open-source projects, particularly in AI, finance, and software development.
 
 If you're interested in collaborating on AI, algorithms, or even creating the next big thing in app development, feel free to reach out!
