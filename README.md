@@ -1,29 +1,35 @@
-# 👋 Hi there! I’m @TheDarkNight21
+# 👋 Hey, I’m Faris (@TheDarkNight21)
 
-Welcome to my GitHub profile, where you'll find a blend of AI-driven innovation, cutting-edge algorithms, and creative tech solutions.
+Welcome to my GitHub! I’m a Computer Science student, builder, and AI enthusiast passionate about using code to solve real-world problems—from finance and biotech to education and gaming.
 
-## 👀 About Me
-I’m passionate about the intersection of AI, finance, and technology. As a third-year Computer Science student, I’m constantly exploring ways to push boundaries with code and algorithms, especially in the fields of automation and financial technology. I love taking on projects that challenge me to learn new things, whether it's building AI solutions, improving the efficiency of businesses through automation, or developing powerful iOS apps.
+## 🚀 About Me
+I specialize in blending machine learning, full-stack development, and automation to build innovative, impactful products. Whether it’s crafting collaborative ML tools, creating smart systems for Type 1 Diabetes management, or building predictive models for fintech and DeFi, I love tackling complex problems with simple, effective code.
 
-## 🌱 What I’m Learning
-I'm currently diving deeper into:
-- **RAG Pipeline Developement (Langchain and LlamaIndex)**: Building pipelines for mortgage and biotech applications.
+I’m currently a Presidential Scholar at Nova Southeastern University and actively pursuing a career in AI and Web3 engineering.
 
-## 💻 Projects & Collaboration
-- **Open-Source Contributions**: Always looking to contribute to exciting open-source projects, particularly in AI, finance, and software development.
+## 🧠 Currently Building
+- **Collaborative ML Notebook Platform** – Real-time, multiplayer cloud notebooks for ML teams with live charts, syncing, and one-click model deployment.
 
-If you're interested in collaborating on AI, algorithms, or even creating the next big thing in app development, feel free to reach out!
+## 📚 Learning & Exploring
+- **RAG Pipelines (LangChain, LlamaIndex, Mistral)** for biotech and mortgage NLP
+- **Machine Learning Frameworks** with Pytorch, Redis, Kubernetes, AWS, MLFlow.
 
-## 📫 How to Reach Me
-- Email: faris.allaf@gmail.com
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/faris-allaf)
+## 🤝 Let’s Collaborate
+I’m open to contributing to or starting projects in:
+- Applied AI / ML
+- Fintech, biotech, and health tech
+- Game development for social impact
+
+## 📫 Connect With Me
+- Email: faris.allaf@gmail.com  
+- LinkedIn: [linkedin.com/in/faris-allaf](https://www.linkedin.com/in/faris-allaf)  
+- Portfolio: **www.farisallaf.com**
 
 ## ⚡ Fun Fact
-When I'm not coding or working on my next big idea, you'll find me working out daily while managing Type 1 Diabetes. I’ve turned that challenge into motivation to keep pushing myself to new heights, just like I do in my projects!
+I manage Type 1 Diabetes and train daily—both of which inspire my mission to create tech that empowers people through smarter, healthier systems.
 
-Thanks for stopping by, and feel free to explore my repositories!
+Thanks for dropping by! Explore my repos and don’t hesitate to connect.
 
 <!---
-TheDarkNight21/TheDarkNight21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+TheDarkNight21/TheDarkNight21 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
