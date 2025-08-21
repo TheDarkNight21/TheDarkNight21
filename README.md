@@ -27,7 +27,7 @@ I’m open to contributing to or starting projects in:
 - Portfolio: [www.farisallaf.com](https://www.farisallaf.com)  
 
 ## ⚡ Fun Fact
-I manage **Type 1 Diabetes** and train daily—both of which fuel my mission to build smarter, healthier systems that empower people through technology.
+I manage **Type 1 Diabetes**, coding, and exercise daily—all of which fuel my mission to build smarter, healthier systems that empower people through technology.
 
 ---
 
