@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m a Computer Science senior at **Nova Southeastern Uni
 ## 🚀 About Me
 I specialize in combining **machine learning, computer vision, and full-stack development** to build tools that solve complex problems with practical solutions. My projects range from collaborative ML platforms to applied AI systems for engineering and healthcare.  
 
-I’m looking to start my career working **full-time at AI-driven startups in California**, where I can contribute to innovative teams tackling frontier problems in deep learning and applied AI.
+I’m looking to start my career working **full-time at AI-driven startups**, where I can contribute to innovative teams tackling frontier problems in deep learning and applied AI.
 
 ## 🧠 Currently Building
 - **Blueprint Vision AI** – A computer vision pipeline that extracts and interprets notes from **HVAC and plumbing blueprints** to automate and optimize contractor proposal workflows.
